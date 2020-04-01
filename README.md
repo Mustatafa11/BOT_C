@@ -1,1 +1,1 @@
-# BOT_C
+# DiscordBOT
